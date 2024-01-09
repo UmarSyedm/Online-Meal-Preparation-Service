@@ -1,0 +1,52 @@
+.vertical-menu {
+  height: 375px;
+  overflow-y: auto;
+}
+
+.vertical-menu a {
+  display: block;
+}
+
+input.checkboxes {
+  width: 18px;
+  height: 18px;
+}
+
+th {
+  border: 1px solid black;
+  text-align: center;
+  padding: 6px;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+/* .columnR {
+  background-color:#aaa;
+  float:left;
+  width:30%;
+} */
+
+.mealbox {
+  padding-top: 8px;
+  background-color:#FCF0C8;
+  border-radius:.75em;
+  width: 95%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: auto;
+  
+  }
+
+  .mealtable {
+    border-radius: 0.75em;
+    background-color: #caccff;
+    padding: 0.75em;
+  }
+
+
+
+  
