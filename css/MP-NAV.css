@@ -1,0 +1,182 @@
+.header {
+   color:black;
+   position: fixed;
+   top: 0;
+   padding: 0px 16px;
+   text-align: left;
+   width: 100%;
+   z-index:1;
+}
+
+.topnav {
+   overflow: hidden;
+   background-color: rgb(210, 255, 210);
+   position: fixed;
+   width: 100%;
+   z-index:1;
+}
+
+.topnav a {
+   float: left;
+   color: black;
+   text-align: center;
+   padding: 14px 12px;
+   text-decoration: none;
+   font-size: 19px;
+   border-radius: 1.0rem;
+}
+
+.topnav a:hover {
+   background-color:rgb(133, 240, 133);
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #04AA6D;
+   color: white;
+}
+
+.topnav a.active1 {
+   float: right;
+   background-color: #04AA6D;
+   color: white;
+}
+
+.topnav a.split {
+   float: right;
+}
+
+.main {
+   padding: 65px;
+   margin-top: 50px;
+   height: 1500px;
+}
+
+.main2 {
+   padding: 56px;
+   margin-top: 50px;
+   height: 1500px;
+}
+
+.main1 {
+   padding: 125px;
+   margin-top: 50px;
+   height: 1500px;
+}
+
+/* Home Page */ 
+
+.container-fluid{
+   padding: 120px 7% 10%;
+}
+
+.title-image{
+   width: 60%;
+   text-align: center;
+   margin-left: 130px;
+   margin-top: 60px;
+   margin-bottom:100px;
+}
+
+#title{
+   color: #fff ;
+}
+
+/* Features */
+
+#features{
+   padding: 0% 10%;
+   background-color: white;
+}
+
+.feature-box{
+   text-align: center;
+   padding: 5%;
+}
+
+.icon{
+   color:#FACE7F;
+   margin-bottom: 1rem;
+}
+.icon:hover{
+   color: #911F27;
+}
+
+/* Testimonials*/
+
+#testimonials{
+    
+   text-align: center;
+   color: #fff;
+   overflow: hidden;
+}
+
+.testimonial-image{
+   width: 10%;
+   border-radius: 100%;
+   margin:20px;
+
+}
+.carousel-item{
+   padding: 7% 15%;
+}
+
+#press{
+   text-align: center;
+   padding-bottom: 3%;
+
+}
+
+.press-logo{
+   width: 15%;
+   margin: 20px 20px 50px;
+}
+
+/* Feedback */
+
+#feedback{
+   text-align: left;
+   background-color:#FCF0C8;
+}
+#heading{
+   text-align: center;
+   padding-top: 3%;
+}
+.feedbackform{
+   text-align: left;
+   padding-left: 300px;
+   width: 700px;
+   padding-bottom: 5%;
+}
+#Feedback{
+   background-color: #fff;
+   margin-bottom: 20px;
+}
+
+/* Footer */
+
+#footer{
+   text-align: center;
+   padding:7% 12%;
+   font-size: 15px;   
+}
+
+.icon-2{
+   margin:0 20px 20px 20px;
+   color: white;
+   font-size: 20px;
+}
+
+colour {
+   background-color: #ffbaba;
+}
+
+
+
+
+/* transition: 0.5s;
+transition-property: background, box-shadow
+
+in hover -
+background: (the colour);
+box-shadow: 0 0 10px 0 rgba (Above colour); */
