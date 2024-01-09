@@ -1,4 +1,4 @@
-﻿# online-meal-preparation-service
+﻿# Online-Meal-Preparation-Service
 
 In this project I created an easy-to-use and completely responsive Online Meal Prep Service Website for people to order healthy and balanced meal plans according to their dietary needs. The central goal of this project is to maximize efficiency and optimize convenience to provide a hassle-free experience to the target group. I am presenting a website with multiple meal plans helping people to choose what they desire. The website has been built using HTML, CSS, JavaScript, and PHP. 
 
